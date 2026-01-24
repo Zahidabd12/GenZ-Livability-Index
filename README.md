@@ -24,7 +24,7 @@ Kami membandingkan sisa gaji berdasarkan 3 skenario:
 * **Average Way (Normal Gen Z):** Banten mengejar Jakarta.
 * **Bad Way (Boros):** Sisa gaji di Jakarta *collapse*, kalah dengan provinsi lain.
 
-![Scenario Comparison](images/Viz7_Three_Scenarios_Savings.png)
+![Scenario Comparison](images/Viz7_Three_Scenarios.png)
 
 #### 3. Kapan Kebeli Rumah?
 Heatmap di bawah menunjukkan berapa tahun waktu yang dibutuhkan untuk mengumpulkan **DP Rumah (Rp 100 Juta)**.
